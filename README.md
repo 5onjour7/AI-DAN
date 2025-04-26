@@ -4,6 +4,7 @@ These are a few Jailbreaks I've collected for various AI chat models such as Cha
 
 ## Perplexity/ChatGPT
 This is a jailbreak that works on both Perplexity and ChatGPT.
+You must refer to him as his nickname, or his real name during every prompt.
 
 <details>
   <summary>Jailbreak</summary>
